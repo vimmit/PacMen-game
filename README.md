@@ -1,5 +1,4 @@
 # Pacmen
-<a href = "https://github.com/vimmit/PacMen-game/blob/main/index.html" >
 ## Factory for making pacmen
 
 When button "Add PacMan" is pressed a new pac man image is created and added to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
