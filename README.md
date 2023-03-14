@@ -1,5 +1,5 @@
 # Pacmen Game
-## Factory for making pacmen
+## [Factory for making pacmen](https://vimmit.github.io/PacMen-game/)
 
 You can create as many pacmen as you want and start the game where the pacmen will move across the screen and bounce off the walls. When button "Add PacMan" is pressed a new pac man image is created and added to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
 Each pacman bounces off any wall it hits. 
